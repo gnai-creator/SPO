@@ -1,4 +1,4 @@
-# SPO Benchmark – Simulated Parity Ontology
+# SPO Benchmark – Symbolic Parity Ontology
 
 **SPO Benchmark** is a symbolic reasoning test suite designed to evaluate language models (LLMs) across 105 levels of increasing complexity.  
 It simulates progressive symbolic challenges, from simple binary logic to ontological paradoxes, symbolic self-negation, and recursive theory of mind.
